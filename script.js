@@ -6,11 +6,11 @@
                 tags: ['React', 'SpringBoot', 'PostgreSQL', 'Node.js'],
                 link: '#',
                 images: [
-                    'https://res.cloudinary.com/ehyx62gg/video/upload/534390394-5b549a47-01b0-4056-b915-c61088436664.mp4',
                     'Images/Project1/first page.png',
                     'Images/Project1/login.png',
                     'Images/Project1/Admin_Dashboard.png',
                     'Images/Project1/Manager_Dashboard.png',
+                    'https://res.cloudinary.com/ehyx62gg/video/upload/534390394-5b549a47-01b0-4056-b915-c61088436664.mp4',
                     'Images/Project1/Booking Pannel.png'
                 ]
             },
